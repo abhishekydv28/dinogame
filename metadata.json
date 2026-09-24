@@ -1,0 +1,6 @@
+{
+  "name": "Chrome Dino Runner",
+  "description": "A retro single-file HTML5 Canvas endless runner inspired by Chrome's offline Dino game with procedural pixel art, audio effects, day/night cycles, and obstacles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
